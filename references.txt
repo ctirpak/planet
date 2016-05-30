@@ -1,0 +1,7 @@
+The following sites were used as a reference when building this project:
+
+http://diveintohtml5.info/canvas.html
+http://jlongster.com/Making-Sprite-based-Games-with-Canvas
+http://www.lostgarden.com/2007/05/dancs-miraculously-flexible-game.html
+
+
