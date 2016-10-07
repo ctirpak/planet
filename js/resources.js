@@ -2,7 +2,7 @@
  * 		Front End Web Developer
  *		Project 3
  *			Video Game
- *		Chris Tirpak
+
  */
 /**
  * @fileOverview Resources.js: This is simple an image loading utility.
